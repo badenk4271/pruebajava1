@@ -5,11 +5,16 @@
  */
 package pruebajava1;
 
-/**
- *
+/*******************************************************************************
+ **Alejandro yavara Vargas
  * @author LAB01
- */
-public class PruebaJava1 {
+ * Fecha: octubre  octubre 30 de 2017
+ * Programa:PruebaJava1
+ * Responsabilidad: Clase Principal
+ * 
+ ******************************************************************************/
+public class PruebaJava1
+{
 
     /**
      * @param args the command line arguments
