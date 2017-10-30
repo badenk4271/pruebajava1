@@ -22,9 +22,12 @@ public class NombreEdad {
   {
       String nombre ; int edad;
       nombre = (JOptionPane.showInputDialog("Ingrese su nombre"));
+      
       edad = Integer.parseInt (JOptionPane.showInputDialog("Ingrese su edad"));
+      
       JOptionPane.showMessageDialog(null,"Bienvenido:"+ (nombre));
-      JOptionPane.showMessageDialog(null,"En 20 años usted tendra:"+ (edad+20)+ " años ");
+     
+      JOptionPane.showMessageDialog(null,"En 20 Años usted tendra:"+ (edad+20)+ " años ");
       
       
   }
